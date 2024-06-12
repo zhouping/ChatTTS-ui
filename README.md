@@ -32,6 +32,7 @@ https://github.com/jianchang512/ChatTTS-ui/assets/3378335/e2a08ea0-32af-4a30-888
 1. 从 [Releases](https://github.com/jianchang512/chatTTS-ui/releases)中下载压缩包，解压后双击 app.exe 即可使用
 2. 某些安全软件可能报毒，请退出或使用源码部署
 3. 英伟达显卡大于4G显存，并安装了CUDA11.8+后，将启用GPU加速
+4. 运行app.exe之前须关闭梯子，运行之后，打开网页转换文字前再打开梯子。如果不这样，可能运行失败。
 
 ## Linux 下容器部署
 
